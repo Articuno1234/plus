@@ -7,9 +7,15 @@ Plus is a small bot that will grow bigger the more commands!
 
 # Commands
 play
+
 pause
+
 np
+
 invite
+
 info
+
 ping
+
 contact
